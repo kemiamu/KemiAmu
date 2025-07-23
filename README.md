@@ -1,9 +1,11 @@
 __English__ | [中文](README_zh.md)
 
-## Hi there 👋
+## Hi there!
 
-Hello stranger, I'm just an ordinary Joe, honored that you've stumbled upon me (though it's all rather pointless). 
+my name say **/ˈkæɪ̯mu ɑˈmu/**
 
-I admit, this intro's probably about as weird as it gets, considering I don't know English or coding  from a hole in the ground. So, yeah, all of this is just some software's doing, including my name, which is supposed to sound like /ˈkæɪ̯mi ɑˈmu/. 🙄✨ 
+glad you found me (even if it's not much)
 
-> ⚡⚡ C $ D N ⚡⚡
+I’m kinda bad at most things
+
+emm...
