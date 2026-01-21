@@ -2,7 +2,7 @@ __English__ | [中文](README_zh.md)
 
 ## Hi there!
 
-my name say **/ˈkæɪ̯mu ɑˈmu/**
+my name say _kay-mee-ah-muw_
 
 glad you found me (even if it's not much)
 
